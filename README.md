@@ -6,6 +6,6 @@ This Python implementation of the STC algorithm offers a user-friendly GUI for g
 3.  Right-click the mouse to select the initial position.
 4.  Click "Plan Path" to generate a path; the path is automatically saved.
 
-![tree](C:\Users\lenovo\Desktop\spanning_tree_coverage\images\tree.png)
+![tree](images\tree.png)
 
-![path](C:\Users\lenovo\Desktop\spanning_tree_coverage\images\path.png)
+![path](images\path.png)
